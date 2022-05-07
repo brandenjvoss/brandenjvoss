@@ -1,7 +1,8 @@
 # My Portfolio
 This portfolio is intended to display some projects I have worked on through personal interest, work expereience and school in a convenient way.
 ## About Me
-Currently, I'm an electrical engineering student in my fourth year at the University of Victoria. Through this Git profile, I hope to express my passion for the projects I have been involved in and my desire to improve myself and those around me. 
+Currently, I'm an electrical engineering student in my fourth year at the University of Victoria. Through this Git profile, I hope to express my passion for the projects I have been involved in and my desire to improve myself and those around me.
+[![][linkedInIcon]](https://www.linkedin.com/in/bjvoss/)
 ## My Projects
 ### [Project 1 - PWM Heater Control](https://github.com/brandenjvoss/PWM_heater_control) *(C++ and Arduino)*
 This program uses PWM to control output from resistive heaters and uses a DS18B20 digital temperature sensor. The intent is to hold an ambient temperature of 60 degrees celcius inside a box used for fuse testing. The heater_output function will provide full heat up to a sensor reading of 55 degrees celsius. Then, the heater will turn off until a reading of 58 is seen (heater continues to radiate heat even when off raising the temp a few degrees more). Output is then modulated to 50% duty cycle from 58-59 and 38% from 59-60. Again, an output of 0 is acheived when the sensor reads higher than 60 degrees celsius. From here, the temperature will fluctuate from 59.31-60.25 degrees celsius and is successfully maintained.
