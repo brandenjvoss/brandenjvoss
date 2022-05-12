@@ -1,5 +1,5 @@
 # My Portfolio
-This portfolio is intended to display some projects I have worked on through personal interest, work expereience and school in a convenient way.
+This portfolio is intended to display some projects I have worked on through personal interest, work experience and school in a convenient way.
 ## About Me
 Currently, I'm an electrical engineering student in my fourth year at the University of Victoria. Through this Git profile, I hope to express my passion for the projects I have been involved in and my desire to improve myself and those around me.
 <br/><br/>Check out my LinkedIn profile here:
