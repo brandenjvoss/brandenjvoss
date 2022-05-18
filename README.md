@@ -1,7 +1,7 @@
 # My Portfolio
 This portfolio is intended to display some projects I have worked on through personal interest, work experience and school in a convenient way.
 ## About Me
-Currently, I'm an electrical engineering student in my fourth year at the University of Victoria. Through this Git profile, I hope to express my passion for the projects I have been involved in and my desire to improve myself and those around me.
+Currently, I'm an electrical engineering student in my fourth year at the University of Victoria. Through this GitHub profile, I hope to express my passion for the projects I have been involved in and my desire to improve myself and those around me.
 <br/><br/>Check out my LinkedIn profile here:
 <br/><br/>
 [![][linkedInIcon]](https://www.linkedin.com/in/bjvoss/)
