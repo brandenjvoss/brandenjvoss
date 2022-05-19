@@ -8,6 +8,8 @@ Currently, I'm an electrical engineering student in my fourth year at the Univer
 
 [linkedInIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-linkedin-50.png
 
+[webIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-website-50.png
+
 ## My Projects
 ### [Project 1 - PWM Heater Control](https://github.com/brandenjvoss/PWM_heater_control) *(C++ and Arduino)*
 This program uses PWM to control output from resistive heaters and uses a DS18B20 digital temperature sensor. The intent is to hold an ambient temperature of 60 degrees celcius inside a box used for fuse testing. The heater_output function will provide full heat up to a sensor reading of 55 degrees celsius. Then, the heater will turn off until a reading of 58 is seen (heater continues to radiate heat even when off raising the temp a few degrees more). Output is then modulated to 50% duty cycle from 58-59 and 38% from 59-60. Again, an output of 0 is acheived when the sensor reads higher than 60 degrees celsius. From here, the temperature will fluctuate from 59.31-60.25 degrees celsius and is successfully maintained.
@@ -23,18 +25,3 @@ For this project, I designed an alarm clock and implemented it into a PCB layout
   4.	Triggers alarm based on set time
   5.	Brightness of LED display adjusts according to ambient light
   6.	Snooze feature for alarm operation
-
-<!--
-**brandenjvoss/brandenjvoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
